@@ -19,7 +19,7 @@
   overflow: hidden;
   background-image: url("../images/waterfallBG.jpeg");
   background-size: cover;
-  background-attachment: fixed;
+;
 }
 .hero-area .block {
   position: relative;

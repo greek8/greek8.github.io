@@ -822,8 +822,6 @@ ul.dropdown-menu li {
 .slider {
   background: url("../images/waterfallBG.jpeg") no-repeat;
   background-size: cover;
-  background-attachment: fixed;
-  background-position: 10% 0%;
   padding: 200px 0;
   position: relative;
 }
