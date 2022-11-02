@@ -117,7 +117,7 @@
  }
  
  .btn-main, .btn-small, .btn-transparent {
-   background: #655E7A;
+   background: #e6ad00;
    color: #fff;
    display: inline-block;
    font-size: 14px;
@@ -894,7 +894,7 @@
  }
  .service .service-item i {
    font-size: 60px;
-   color: #655E7A;
+   color: #e6ad00;
  }
  .service .service-item h4 {
    padding-top: 15px;
@@ -1003,7 +1003,7 @@
    margin-bottom: 20px;
  }
  .feature .btn-view-works {
-   background: #655E7A;
+   background: #e6ad00;
    color: #fff;
    padding: 10px 20px;
  }
@@ -1248,7 +1248,7 @@
    display: inline-block;
  }
  .social-icons i {
-   color: #2C2C2C;
+   color: #e6ad00;
    margin-right: 25px;
    font-size: 25px;
  }
