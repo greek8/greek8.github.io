@@ -43,11 +43,11 @@ a:hover {
 }
 
 .bg-gray {
-  background: #fafafa;
+  background: #b50a0a;
 }
 
 .navigation {
-  background: #fff;
+  background: rgb(77, 15, 15);
   padding: 20px 0;
 }
 .navigation .navbar {
